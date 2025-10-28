@@ -1,0 +1,5 @@
+{
+  "name": "React Three.js FPS",
+  "description": "A first-person shooter game built with React, Three.js, and @react-three/fiber, inspired by the mechanics and feel of Counter-Strike 1.6. Features geometric environments, physics-based movement, collision detection, and shooting mechanics.",
+  "requestFramePermissions": []
+}
